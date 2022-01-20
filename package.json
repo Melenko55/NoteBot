@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "telebot": "^1.4.1"
+  }
+}
